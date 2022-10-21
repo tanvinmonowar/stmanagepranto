@@ -28,6 +28,7 @@ social-auth-core==4.3.0
 sqlparse==0.4.1
 sslcommerz-lib==1.0
 stripe==2.55.2
+tk==0.1.0
 tzdata==2022.2
 urllib3==1.26.3
 whitenoise==6.2.0
